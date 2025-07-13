@@ -53,7 +53,7 @@ function article_2() {
 		description:
 			"Countless cyber attacks are happening everyday all around the world and it is impossible for experts to investigate and identify how security is breached in every cases. With that in mind, we are building a dataset with various cyber attack scenarios, where we will identify different Mitre ATT&CK Techniques used throughout a cyber attack.",
 		btn: "View More",
-		link: "/article/2",
+		link: "/saad_portfolio/article/2",
 		target: "_self",
 		style: ``,
 		keywords: [
@@ -77,7 +77,7 @@ function article_3() {
 		description:
 			"In the age of LLMs, developers often utilize chatGPT, Gemini to usderstand, rewrite and analyze codes. We created a google chrome extention called CLARA that does all of these in one place with the help of our fine-tuned models",
 		btn: "View More",
-		link: "/article/3",
+		link: "/saad_portfolio/article/3",
 		target: "_self",
 		style: ``,
 		keywords: [
